@@ -3,4 +3,4 @@
 利用网上的api接口写的一个小视频解析网站<br/>
 基于Vue.js 2.X版本<br/>
 
-<a herf="http://video.lidppp.com/">预览网址</a>
+预览网址: http://video.lidppp.com/
